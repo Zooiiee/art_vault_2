@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050666510627",
+    "project_id": "artvault-125cd",
+    "storage_bucket": "artvault-125cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050666510627:android:8fca55c851d31e025d0496",
+        "android_client_info": {
+          "package_name": "com.example.art_vault_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqpIUIiPd2tEqH1Q4ccug9d4JHXRiqizg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
