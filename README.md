@@ -1,6 +1,6 @@
 # art_vault_2
 
-A new Flutter project.
+A Virtual Art Gallery App
 
 ## Getting Started
 
