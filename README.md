@@ -2,6 +2,8 @@
 
 A Virtual Art Gallery App
 
+![WhatsApp Image 2023-10-11 at 18 37 09_bf1e0d88](https://github.com/Zooiiee/art_vault_2/assets/92311895/b73aeb45-4379-439a-bad9-d9272f5471f5)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
